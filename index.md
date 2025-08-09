@@ -1,10 +1,8 @@
 # Stukjes en beetjes
 
 <p>Dit is een alinea, kijken wat er van overblijft</p>
-
-```
-
-    <div class="music-card">
+<div>
+	<div class="music-card">
         <img src="afbeelding1.jpg" alt="Afbeelding 1">
         <h2>Nummer 1</h2>
         <audio controls>
@@ -23,14 +21,14 @@
         <p>Dit is een toelichting bij nummer 2. Hier kun je meer informatie geven over het nummer.</p>
     </div>
     <!-- Voeg meer muziekkaarten toe zoals hierboven -->
+
 </div>
-```
 
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTExOTgxMCw1MDYyMjU3NTcsMTQ4MT
-c2NDk0MF19
+eyJoaXN0b3J5IjpbLTE3MDkyNDU4NTMsNTA2MjI1NzU3LDE0OD
+E3NjQ5NDBdfQ==
 -->
