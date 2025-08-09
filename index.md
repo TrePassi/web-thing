@@ -3,7 +3,7 @@
 <p>Dit is een alinea, kijken wat er van overblijft</p>
 
 ```
-<div class="container">
+
     <div class="music-card">
         <img src="afbeelding1.jpg" alt="Afbeelding 1">
         <h2>Nummer 1</h2>
@@ -31,5 +31,6 @@
 </blockquote>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2MjI1NzU3LDE0ODE3NjQ5NDBdfQ==
+eyJoaXN0b3J5IjpbMTI2MTExOTgxMCw1MDYyMjU3NTcsMTQ4MT
+c2NDk0MF19
 -->
