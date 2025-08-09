@@ -6,7 +6,7 @@
         <img src="afbeelding1.jpg" alt="Afbeelding 1">
         <h2>Nummer 1</h2>
         <audio controls>
-            <source src="muziek1.mp3" type="audio/mpeg">
+            <source src="altijd anders fout.mp3" type="audio/mpeg">
             Je browser ondersteunt het audio-element niet.
         </audio>
         <p>Dit is een toelichting bij nummer 1. Hier kun je meer informatie geven over het nummer.</p>
@@ -29,6 +29,6 @@
 </blockquote>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDkyNDU4NTMsNTA2MjI1NzU3LDE0OD
-E3NjQ5NDBdfQ==
+eyJoaXN0b3J5IjpbLTQyMjU5NDU0MiwtMTcwOTI0NTg1Myw1MD
+YyMjU3NTcsMTQ4MTc2NDk0MF19
 -->
