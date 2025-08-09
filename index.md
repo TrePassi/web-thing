@@ -1,4 +1,4 @@
-    <h1>Mijn Muziekpagina</h1>
+    <h1>Stukjes en beetjes</h1>
     <div class="container">
         <div class="music-card">
             <img src="afbeelding1.jpg" alt="Afbeelding 1">
@@ -27,5 +27,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTM3NzQ4Ml19
+eyJoaXN0b3J5IjpbMTI4MjE3NjcyMSwxMTY1Mzc3NDgyXX0=
 -->
